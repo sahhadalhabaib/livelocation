@@ -1,2 +1,2 @@
  #The students are here now
-https://www.google.com/maps?q=26.420353,50.066147
+https://www.google.com/maps?q=26.421023,50.064285
